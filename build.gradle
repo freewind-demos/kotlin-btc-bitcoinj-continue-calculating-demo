@@ -18,7 +18,7 @@ repositories {
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
-    compile 'org.bitcoinj:bitcoinj-core:0.14.7'
+    compile 'org.bitcoinj:bitcoinj-core:0.15-SNAPSHOT'
     compile 'com.google.code.gson:gson:2.8.5'
     compile "org.apache.commons:commons-lang3:3.7"
     compile "commons-io:commons-io:2.6"
